@@ -1,4 +1,4 @@
-gghhghbhbhggggghghhghggghhghhhghygghghvghgghhggvcgghvxvvgg# 📡 ESP8266 Security Camera  
+# 📡 ESP8266 Security Camera  
 
 A simple **ESP8266-based security camera simulation** that can trigger photo capture and send images over WiFi. This project demonstrates **IoT-enabled surveillance** and can be expanded for real-time monitoring.  
 
